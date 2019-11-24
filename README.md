@@ -1,0 +1,1 @@
+corsair_psu_pmbus
